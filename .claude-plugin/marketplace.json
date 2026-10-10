@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"学术图表专家：数据→期刊配图规范→图表生成→规范脚本校验（投稿前规范硬门）","name":"lhg-sci-figure","source":"./"}]}
